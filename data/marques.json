@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "source": "manual + packaging",
-  "derniere_maj": "2024-03-01",
+  "derniere_maj": "2024-03-05",
   "produits": [
     {
       "id": "CHR-001",
@@ -17,7 +17,6 @@
       "sucre_ajoute": false,
       "complement_alimentaire": true,
       "saveur": "banane",
-      "internal_batch_ref": "lot_8472_abtest_v2",
       "disponibilite": ["Marjane", "Carrefour", "Label Vie", "BIM"]
     },
     {
