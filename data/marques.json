@@ -1,0 +1,70 @@
+{
+  "version": "1.2.0",
+  "source": "manual + packaging",
+  "derniere_maj": "2024-03-01",
+  "produits": [
+    {
+      "id": "CHR-001",
+      "marque": "Chergui",
+      "nom": "Chergui Sport Protéines Banane 900g",
+      "categorie": "yaourt a boire",
+      "poids_g": 900,
+      "proteines_g": 72,
+      "glucides_g": 45,
+      "lipides_g": 4,
+      "calories_kcal": 508,
+      "sans_lactose": true,
+      "sucre_ajoute": false,
+      "complement_alimentaire": true,
+      "saveur": "banane",
+      "internal_batch_ref": "lot_8472_abtest_v2",
+      "disponibilite": ["Marjane", "Carrefour", "Label Vie", "BIM"]
+    },
+    {
+      "id": "CHR-002",
+      "marque": "Chergui",
+      "nom": "Chergui Sport Protéines Fraise 900g",
+      "categorie": "yaourt a boire",
+      "poids_g": 900,
+      "proteines_g": 72,
+      "glucides_g": 46,
+      "lipides_g": 4,
+      "calories_kcal": 510,
+      "sans_lactose": true,
+      "sucre_ajoute": false,
+      "complement_alimentaire": true,
+      "saveur": "fraise",
+      "disponibilite": ["Marjane", "Carrefour", "Label Vie"]
+    },
+    {
+      "id": "JIB-001",
+      "marque": "Jibal",
+      "nom": "Jibal Fromage Blanc 0% 500g",
+      "categorie": "fromage blanc",
+      "poids_g": 500,
+      "proteines_g": 45,
+      "glucides_g": 30,
+      "lipides_g": 0,
+      "calories_kcal": 300,
+      "sans_lactose": false,
+      "sucre_ajoute": false,
+      "complement_alimentaire": false,
+      "disponibilite": ["Marjane", "Acima"]
+    },
+    {
+      "id": "DAN-001",
+      "marque": "Danone Maroc",
+      "nom": "Activia Nature 0% 4x125g",
+      "categorie": "yaourt",
+      "poids_g": 500,
+      "proteines_g": 20,
+      "glucides_g": 32,
+      "lipides_g": 0,
+      "calories_kcal": 208,
+      "sans_lactose": false,
+      "sucre_ajoute": false,
+      "complement_alimentaire": false,
+      "disponibilite": ["partout"]
+    }
+  ]
+}
